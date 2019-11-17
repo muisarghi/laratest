@@ -23,3 +23,9 @@
         "vue": "^2.5.17"
     }
 }
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
